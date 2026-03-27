@@ -14,19 +14,27 @@
 
 ## 1. Led Blink
 Far lampeggiare un LED a intervalli regolari.
+1-ledblink.png
+1-ledblink.ino
 
 ---
 
 ## 2. Semaforo
 Simulazione di un semaforo con tre LED (rosso, giallo, verde) che si alternano automaticamente.
+2-semaforo.png
+2-semaforobozzolini.ino
 
 ---
 
 ## 3. Semaforo con Pulsante
 Semaforo che cambia stato alla pressione di un pulsante.
+3-semaforopulsante.png
+3-semaforopulsantebozzolini.ino
 
 ---
 
 ## 4. Incrocio
 Simulazione di un incrocio con 4 semafori sincronizzati.
 I semafori opposti si comportano allo stesso modo, alternandosi con quelli perpendicolari.
+4-semaforo2-2.png
+4-semaforo2-2Bozzolini.io
