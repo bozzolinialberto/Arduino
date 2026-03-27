@@ -1,9 +1,9 @@
-# 🤖 Progetti Arduino – Anno Scolastico 2025/2026
+# Progetti Arduino - Anno Scolastico 2025/2026
 **Classe:** 4AI
 
 ---
 
-## 📋 Indice
+## Indice
 
 1. [Led Blink](#1-led-blink)
 2. [Semaforo](#2-semaforo)
@@ -18,12 +18,12 @@ Far lampeggiare un LED a intervalli regolari.
 **Materiali:**
 - 1x Arduino UNO
 - 1x LED
-- 1x Resistenza 220Ω
+- 1x Resistenza 220
 - Breadboard e cavi
 
 **File:**
-- `1-ledblink.png` – Schema del circuito
-- `1-ledblinkbozzolini.ino` – Codice sorgente
+- `1-ledblink.png` - Schema del circuito
+- `1-ledblinkbozzolini.ino` - Codice sorgente
 
 ---
 
@@ -35,12 +35,12 @@ Simulazione di un semaforo con tre LED (rosso, giallo, verde) che si alternano a
 - 1x LED rosso
 - 1x LED giallo
 - 1x LED verde
-- 3x Resistenza 220Ω
+- 3x Resistenza 220
 - Breadboard e cavi
 
 **File:**
-- `2-semaforo.png` – Schema del circuito
-- `2-semaforonbozzolini.ino` – Codice sorgente
+- `2-semaforo.png` - Schema del circuito
+- `2-semaforonbozzolini.ino` - Codice sorgente
 
 ---
 
@@ -52,14 +52,14 @@ Semaforo che cambia stato alla pressione di un pulsante.
 - 1x LED rosso
 - 1x LED giallo
 - 1x LED verde
-- 3x Resistenza 220Ω
+- 3x Resistenza 220
 - 1x Pulsante (push button)
-- 1x Resistenza 10kΩ (pull-down)
+- 1x Resistenza 10k (pull-down)
 - Breadboard e cavi
 
 **File:**
-- `3-semaforopulsante.png` – Schema del circuito
-- `3-semaforopulsantebozzolini.ino` – Codice sorgente
+- `3-semaforopulsante.png` - Schema del circuito
+- `3-semaforopulsantebozzolini.ino` - Codice sorgente
 
 ---
 
@@ -72,9 +72,9 @@ I semafori opposti si comportano allo stesso modo, alternandosi con quelli perpe
 - 4x LED rosso
 - 4x LED giallo
 - 4x LED verde
-- 12x Resistenza 220Ω
+- 12x Resistenza 220
 - Breadboard e cavi
 
 **File:**
-- `4-semaforo2-2.png` – Schema del circuito
-- `4-semaforo2-2Bozzolini.ino` – Codice sorgente
+- `4-semaforo2-2.png` - Schema del circuito
+- `4-semaforo2-2Bozzolini.ino` - Codice sorgente
